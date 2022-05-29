@@ -2,7 +2,7 @@
     {
         "title":"ภาษา C คืออะไร ?",
         "subtitle":"Keen คือ รองเท้าที่สามารถสวมใส่ได้หลากหลายรูปแบบ",
-        "image_url":"https://media.istockphoto.com/photos/text-against-technology-background-picture-id1343214597?s=612x612",
+        "image_url":"https://raw.githubusercontent.com/Wazeer11/BasicFlutterAPI/main/one.jpg",
         "detail":"   ภาษาซี (C Programming Language) คือ ภาษาคอมพิวเตอร์ใช้สำหรับพัฒนาโปรแกรมทั่วไป ถูกพัฒนาครั้งแรกเพื่อใช้เป็นภาษาสำหรับพัฒนาระบบปฏิบัติการยูนิกซ์ ( Unix Opearating System) แทนภาษาแอสเซมบลี "
 
     },
@@ -12,7 +12,7 @@
     {
         "title":"ภาษา Python คืออะไร",
         "subtitle":"หลายรุ่นอยู่นะ",
-        "image_url":"https://cdn.pixabay.com/photo/2016/12/29/12/27/cyber-glasses-1938449_960_720.jpg",
+        "image_url":"https://raw.githubusercontent.com/Wazeer11/BasicFlutterAPI/main/two.jpg",
         "detail":"ภาษาโปรแกรม Python คือภาษาโปรแกรมคอมพิวเตอร์ระดับสูง โดยถูกออกแบบมาให้เป็นภาษาสคริปต์ที่อ่านง่าย  โดยตัดความซับซ้อนของโครงสร้างและไวยกรณ์ของภาษาออกไป ในส่วนของการแปลงชุดคำสั่งที่เราเขียนให้เป็นภาษาเครื่อง Python มีการทำงานแบบ Interpreter คือเป็นการแปลชุดคำสั่งทีละบรรทัด"
 
     },
@@ -20,7 +20,7 @@
     {
         "title":"React คืออะไร",
         "subtitle":"React เป็น JavaScript library ที่ใช้สำหรับสร้าง user interface",
-        "image_url":"https://cdn.pixabay.com/photo/2016/11/19/22/52/coding-1841550_960_720.jpg",
+        "image_url":"https://raw.githubusercontent.com/Wazeer11/BasicFlutterAPI/main/three.jpg",
         "detail":"React เป็น JavaScript library ที่ใช้สำหรับสร้าง user interface ที่ให้เราสามารถเขียนโค้ดในการสร้าง UI ที่มีความซับซ้อนแบ่งเป็นส่วนเล็กๆออกจากกันได้ ซึ่งแต่ละส่วนสามารถแยกการทำงานออกจากกันได้อย่างอิสระ และทำให้สามารถนำชิ้นส่วน UI เหล่านั้นไปใช้ซ้ำได้อีก"
     }
     ]
