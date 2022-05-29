@@ -22,13 +22,6 @@
         "subtitle":"React เป็น JavaScript library ที่ใช้สำหรับสร้าง user interface",
         "image_url":"https://cdn.pixabay.com/photo/2016/11/19/22/52/coding-1841550_960_720.jpg",
         "detail":"React เป็น JavaScript library ที่ใช้สำหรับสร้าง user interface ที่ให้เราสามารถเขียนโค้ดในการสร้าง UI ที่มีความซับซ้อนแบ่งเป็นส่วนเล็กๆออกจากกันได้ ซึ่งแต่ละส่วนสามารถแยกการทำงานออกจากกันได้อย่างอิสระ และทำให้สามารถนำชิ้นส่วน UI เหล่านั้นไปใช้ซ้ำได้อีก"
-    },
-
-    {
-        "title":"Reactdwadwa คืdwadwaawdwadawะไร",
-        "subtitle":"React เป็น JavaScript library ที่ใช้สำหรับสร้าง user interface",
-        "image_url":"https://cdn.pixabay.com/photo/2016/11/19/22/52/coding-1841550_960_720.jpg",
-        "detail":"React เป็น JavaScript library ที่ใช้สำหรับสร้าง user interface ที่ให้เราสามารถเขียนโค้ดในการสร้าง UI ที่มีความซับซ้อนแบ่งเป็นส่วนเล็กๆออกจากกันได้ ซึ่งแต่ละส่วนสามารถแยกการทำงานออกจากกันได้อย่างอิสระ และทำให้สามารถนำชิ้นส่วน UI เหล่านั้นไปใช้ซ้ำได้อีก"
-        }
+    }
     ]
 
